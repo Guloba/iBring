@@ -1,0 +1,7 @@
+{
+  "name": "ibring",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

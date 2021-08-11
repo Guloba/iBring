@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ibring",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

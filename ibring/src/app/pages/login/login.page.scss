@@ -1,0 +1,17 @@
+.top{
+    text-align: center;
+    height:50vh;
+    background:  #3c88fa;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    img{
+        height: 50px;
+    }
+  }
